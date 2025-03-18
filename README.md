@@ -29,7 +29,7 @@ The app is built on EduChain (Solidity), ensuring decentralized, transparent, an
 ### 🛠️ Tech Stack
 
 - Frontend: TypeScript, Tailwind CSS
-- Backend: Solidity (EduChain smart contracts)
+- Backend: Django
 - Storage: EVM (on-chain data)
 - Blockchain Interaction: REMIX
 - Deployment: REMIX IDE (localhost)
