@@ -56,7 +56,7 @@ Want to improve BlockEd? Contributions are welcome! Fork the repo, create a bran
 
 ### 📞 Contact & Support
 
-💡 Website: [Coming Soon]
+💡 Website: https://block-ed.vercel.app/
 📧 Email: info@blocked.com
 📢 Twitter: @BlockEd
 
